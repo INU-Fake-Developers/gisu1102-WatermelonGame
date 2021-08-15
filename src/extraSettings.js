@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'https://www.instagram.com/gisu1102/';
 
 // 웹 페이지 제목 수정: "합성 큰 수박"을 바꿉니다.
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = '포켓몬 합성 게임!';
 
 // 선택 팝업 열기: false를 true로 바꿉니다
 let selectModal = false;
